@@ -3,7 +3,7 @@ title: "Este é o meu notebook"
 output: html_document
 ---
 
-Este é meu primeiro projeto.
+Este é meu primeiro projeto.;
 
 ```{r}
 plot(cars)
